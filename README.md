@@ -6,6 +6,9 @@
 For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
 
 ## Basic Info
+
+預設打開 Sn0w GUI 的鍵是 BACKSLASH（\）鍵（keycode = 92）。
+
 [Frequently asked questions](https://github.com/Skitttyy/Sn0w/blob/main/FAQ.md)
 
 Hello all I am skitty and I am releasing my 2b2t hacked client after 5 years. It is widely considered the best client for crystal pvp, and pretty much the most sought after client in all of hvh.
